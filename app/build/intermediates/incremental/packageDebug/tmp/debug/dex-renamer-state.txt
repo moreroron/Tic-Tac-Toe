@@ -1,0 +1,4 @@
+#Mon Apr 06 16:11:04 IDT 2020
+base.0=/Users/Ron/AndroidStudioProjects/TicTakToe/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
